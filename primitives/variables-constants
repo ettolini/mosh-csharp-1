@@ -1,0 +1,14 @@
+- Declarations are similar to Java -> type name = value;
+
+- Identifier: variable/constant name.
+- Identifiers cannot start with a number.
+- Identifiers can share a keyword's name if you add @ before its name -> @int
+
+- For local variables: Camel Case -> firstName.
+- For constants: Pascal Case -> FirstName.
+
+- If you don't specify what type of real number value you're applying, the engine will think it's a double value by
+  default. If this were to happen -> float number = 1.2 -> then the program would not compile, since you can't store a
+  double value inside a float variable.
+  floar -> f / decimal -> m / double -> default choice.
+
