@@ -1,0 +1,9 @@
+Value types
+- Structures: primitive types, custom structures. Smaller types of data.
+- When you declare one, they're allocated in a static location known as "stack".
+- Said memory allocation is done automatically, and is also immediately removed when out of scope.
+
+Reference types
+- Classes: arrays, strings, custom classes. Larger types of data.
+- When you declare one, you need to manually do the memory allocation yourself (with the New Keyword).
+- Memory is allocated on heap, and is "garbage collected" by CLR. It's not done immediately, but it is automatic.

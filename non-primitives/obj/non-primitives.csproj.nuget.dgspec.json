@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ettor\\OneDrive\\Escritorio\\C#\\C# 1. Mosh\\csharp-code1\\non-primitives\\non-primitives.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ettor\\OneDrive\\Escritorio\\C#\\C# 1. Mosh\\csharp-code1\\non-primitives\\non-primitives.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ettor\\OneDrive\\Escritorio\\C#\\C# 1. Mosh\\csharp-code1\\non-primitives\\non-primitives.csproj",
+        "projectName": "non-primitives",
+        "projectPath": "C:\\Users\\ettor\\OneDrive\\Escritorio\\C#\\C# 1. Mosh\\csharp-code1\\non-primitives\\non-primitives.csproj",
+        "packagesPath": "C:\\Users\\ettor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ettor\\OneDrive\\Escritorio\\C#\\C# 1. Mosh\\csharp-code1\\non-primitives\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ettor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

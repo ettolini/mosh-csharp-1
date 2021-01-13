@@ -1,0 +1,16 @@
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\bin\Debug\net5.0\non-primitives.exe
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\bin\Debug\net5.0\non-primitives.deps.json
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\bin\Debug\net5.0\non-primitives.runtimeconfig.json
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\bin\Debug\net5.0\non-primitives.runtimeconfig.dev.json
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\bin\Debug\net5.0\non-primitives.dll
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\bin\Debug\net5.0\ref\non-primitives.dll
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\bin\Debug\net5.0\non-primitives.pdb
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.csprojAssemblyReference.cache
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.AssemblyInfoInputs.cache
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.AssemblyInfo.cs
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.csproj.CoreCompileInputs.cache
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.dll
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\ref\non-primitives.dll
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.pdb
+C:\Users\ettor\OneDrive\Escritorio\C#\C# 1. Mosh\csharp-code1\non-primitives\obj\Debug\net5.0\non-primitives.genruntimeconfig.cache
