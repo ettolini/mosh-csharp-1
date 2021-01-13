@@ -1,0 +1,28 @@
+For Loops
+for (var i = 0; i < 10; i++)
+{
+    ...
+}
+
+Foreach Loops
+foreach (var number in numbers)
+{
+    ...
+}
+
+While Loops
+while (i < 10)
+{
+    ...
+    i++;
+}
+
+Do While Loops
+do 
+{
+    ...
+    i++;
+} while (i < 10);
+
+Break: jumps out of the loop.
+Continue: jumps to the next iteration.
