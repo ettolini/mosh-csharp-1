@@ -1,0 +1,14 @@
+Creating Lists
+
+var numbers = new List<int>();
+var numbers2 = new List<int> { 1, 2, 3, 4 ;
+
+Useful Methods
+
+- Add()         -> Adds an object to the list
+- AddRange()    -> Adds a list of objects (can be another list or an array)
+- Remove()      -> Removes an object from the list 
+- RemoveAt()    -> Removes an object at the given index
+- IndexOf()     -> Returns the index of the given object
+- Contains()    -> Returns whether the given object exists in the list or not
+- Count         -> Returns the number of objects in the list
