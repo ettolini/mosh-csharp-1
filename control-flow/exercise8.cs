@@ -1,6 +1,6 @@
 using System;
 
-namespace demo
+namespace demosds
 {
     class Program
     {

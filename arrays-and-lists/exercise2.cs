@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace FriendLikes
+namespace FriendLikesOYur
 {
     class Program
     {
