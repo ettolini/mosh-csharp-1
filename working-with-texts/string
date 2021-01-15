@@ -1,0 +1,43 @@
+Formatting
+
+var example = "Hello World";
+example.ToLower();   // "hello world"
+example.ToUpper();   // "HELLO WORLD"
+example.Trim();      // "HelloWorld"
+
+Searching 
+
+IndexOf('a')            // They can receive a character or a string, they return the index of the first or last occurrence of the sent element
+LastIndexOf("Hello")    // IndexOf() returns the first occurrence's index, meanwhile LastIndexOf() returns the last one
+
+Substrings
+
+Substring(startIndex)           // Returns a substring based on the base string, it deletes every character from the sent index onwards
+Substring(startIndex, length)   // You can also specify the amount of characters you want to delete, starting from the sent index as well
+
+Replacing
+
+Replace('a', '!')           // Replaces a given character inside your string (old character, new character)     They can't be mixed!
+Replace("etto", "ettore")   // Replaces a given substring inside your string (old string, new string)           ("a", "ettore") won't do!
+
+Null checking
+
+String.IsNullOrEmpty(str)       // Self-explanatory
+String.IsNullOrWhiteSpace(str)  
+
+Splitting
+
+str.Split(' ')  // This example would return an array of strings, strings separated whenever a ' ' is found
+
+Converting Strings to Numbers
+
+string s = "1234";     
+int i = int.Parse(s);       // If string is null or empty, throws an exception
+int j = Convert.ToInt32(s); // If string is null or empty, returns 0
+
+Converting Numbers to Strings
+
+int i = 1234;
+string s = i.ToString();        // "1234"
+string t = i.ToString("C");     // "$1,234.00" -> 'C' stands for "Currency"
+string r = i.ToString("C0");    // "$1,234" -> Add the '0' if you don't want to show decimals for currency

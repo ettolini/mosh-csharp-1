@@ -1,0 +1,15 @@
+StringBuilder
+
+Strings are immutable, once they're created, you cannot change their context.
+On the other hand, StringBuilder is a Class defined in System.Text Namespace, which represents a mutable string.
+They make it really easy to create and manipulate strings. But they aren't optimized for searching.
+
+For example, they lack the following methods: IndexOf, LastIndexOf, Contains, StartsWith...
+
+But instead, they provide multiple methods that are useful to manipulate strings. Such as...
+
+Append: to add something to the end of a string.
+Insert: to add something at the given index.
+Remove: removes something from the string.
+Replace: replaces something from the string.
+Clear: clears the string element.
