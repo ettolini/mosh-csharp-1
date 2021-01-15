@@ -1,0 +1,17 @@
+Debugging Tools
+
+- You can click a line to put a breakpoint there, your code will stop running once you hit that point. The breakpoint will be seen as a red dot.
+- You can set multiple breakpoints.
+- Remember to disable breakpoints once you're done with them. They might get in the way if you were to do another test.
+- There's a tool that removes them all at once in the "Run" tab.
+
+- You can "run" your code, which is what we've been doing. Or you can "start debugging", which will trigger debugging tools at runtime.
+- "F5" -> Start debuggin / "Shift + F5" -> Stop debugging
+
+- "Step over" means jumping to the next line of code.
+- "Step into" means getting into a function, where you in a line where a function call occurs.
+- "Step out" means getting out of the current function, had you stepped into one before.
+
+- "Watch Window", if you add a variable's name inside it, it'll show you it's current value. VERY USEFUL.
+- "Stack Window", shows the order in which methods were run from the moment the program started, up to where you currently are.
+  Where you're currently located is shown at the top, and at the bottom is where you started. If you double click any, it'll take you there.
