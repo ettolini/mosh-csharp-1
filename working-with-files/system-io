@@ -1,0 +1,27 @@
+The classes used to work with Files are located in the namespace System.IO. Some of these are:
+
+- File, FileInfo
+- Directory, DirectoryInfo
+- Path
+
+File, FileInfo
+
+- Provide methods for creating, copying, deleting, moving and opening of files.
+- FileInfo provides intance methods.    -> Recommended for larger operations    // Everytime the File Class is called, a security procedure is
+- File provides static methods.         -> Recommended for shorter operations   // run, doing it a lot damages performance. That's the thing.
+
+- Create(), Copy(), Delete(), Exists(), GetAttributes(), Move(), ReadAllText() are some of the methods available
+
+Directory, DirectoryInfo
+
+- Provide methods to work with Directories.
+- Directory provides static methods.
+- DirectoryInfo provides instance methods.
+
+- CreateDirectory(), Delete(), Exists(), GetCurrentDirectory(), GetFiles(), Move(), GetLogicalDrives()...
+
+Path
+
+- Provides methods to work with a string that contains a file or directory path information.
+
+- GetDirectoryName(), GetFileName(), GetExtension(), GetTempPath()...
